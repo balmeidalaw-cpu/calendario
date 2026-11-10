@@ -18,4 +18,4 @@ node calendario.js 2026 11
 - funções, condições e laços em JavaScript
 - validação de entrada (por exemplo, recusar o mês 13)
 - organização do código em funções pequenas, cada uma com uma responsabilidade
-- separação entra a lógica e a apresentação (a mesma lógica servindo ao terminal e ao navegador)
+- separação entre a lógica e a apresentação (a mesma lógica servindo ao terminal e ao navegador)
